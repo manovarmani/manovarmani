@@ -1,7 +1,7 @@
 # 👋 Hey there!
 
 ## 🧠 About Me
-I'm currently an undergraduate researcher at the Dept. of Neurological Surgery, where I delve into the complexities of the human brain and its functions. Alongside that, I flex my creative muscles as a 3D modeler in the Dept. of Computational and Systems Biology.
+I'm currently an undergraduate researcher in the Dept. of Neurological Surgery, where I delve into the complexities of the human brain and its functions. Alongside that, I flex my creative muscles as a 3D modeler in the Dept. of Computational and Systems Biology.
 
 ### 🚀 What I Do
 - **Neurological Research:** Focused on groundbreaking diffusion MRI and connectomics to advance understanding and diagnostics in brain disorders
