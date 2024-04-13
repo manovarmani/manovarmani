@@ -3,9 +3,6 @@
 ## 🧠 About Me
 I'm currently an undergraduate researcher at the Dept. of Neurological Surgery, where I delve into the complexities of the human brain and its functions. Alongside that, I flex my creative muscles as a 3D modeler in the Dept. of Computational and Systems Biology.
 
-![pittneurosurgery](https://github.com/manovarmani/manovarmani/assets/142830163/056d6702-976e-4a30-922b-96dbdc6ea51a)
-
-
 ### 🚀 What I Do
 - **Neurological Research:** Focused on groundbreaking diffusion MRI and connectomics to advance understanding and diagnostics in brain disorders
 - **3D Modeling:** Creating detailed 3D protein models to visualize how disease impacts structure and functionality
