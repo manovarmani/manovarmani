@@ -15,8 +15,8 @@ I'm currently an undergraduate researcher at the Dept. of Neurological Surgery, 
 - Develop a portfolio of computational techniques, both in neuroscience and systems biology.
 
 ### 📫 How to Reach Me
-- Email: [armanimanov@pitt.edu](mailto:armanimanvo@pitt.edu)
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/armanimanov)
+- Email: [armanimanov@pitt.edu](mailto:armanimanov@pitt.edu)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/armanimanov)
 
 ---
 
